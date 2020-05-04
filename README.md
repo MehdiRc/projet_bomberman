@@ -7,4 +7,5 @@ Project by Mehdi Chakhchoukh, Quentin Lemasson
 
 <hr> <p> <strong style="color: #000;">Our results</strong>: </p> 
 We achieved every challenge goal, and learned about programming with javascript : the use of promicies, canvas, event system, JSON files, web API and multi-file architecture.
-![ImageEx](imgs/bomberman.PNG?raw=true "") ![ImageEx](imgs/bomberman-multi.PNG?raw=true "") 
+
+![ImageEx](/bomberman.PNG?raw=true "") ![ImageEx](imgs/bomberman-multi.PNG?raw=true "") 
